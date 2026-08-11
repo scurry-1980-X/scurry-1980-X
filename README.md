@@ -23,7 +23,7 @@ Microsoft Certified: Azure Fundamentals — AZ-900
 
 Current AI Training
 
-Google AI Essentials — In progress
+Google AI Essentials — Currently studying
 Microsoft AI-901: Azure AI Fundamentals — Currently studying
 
 I'm continuing to build my knowledge across AI fundamentals, machine learning concepts, generative AI, responsible AI, and Azure AI services.
