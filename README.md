@@ -5,6 +5,7 @@ I'm a technology professional with a background in senior engineering, IT infras
 
 I'm particularly interested in roles where I can combine hands-on technical experience with emerging AI technologies to solve problems, automate workflows, improve support experiences, and build practical solutions.
 
+
 🧠 AI & Cloud Focus
 Artificial Intelligence & Generative AI
 Azure AI and Microsoft Foundry
@@ -14,6 +15,7 @@ Cloud technologies
 Automation and scripting
 Troubleshooting and problem solving
 Technical documentation
+
 🎓 Certifications & Training
 
 Microsoft Certifications
@@ -29,6 +31,7 @@ Microsoft AI-901: Azure AI Fundamentals — Currently studying
 
 I'm continuing to build my knowledge across AI fundamentals, machine learning concepts, generative AI, responsible AI, and Azure AI services.
 
+
 🛠️ Technical Interests
 AI / GenAI       ███████████████████░
 Azure            ██████████████████░░
@@ -37,6 +40,7 @@ Automation       █████████████████░░░
 Technical Support██████████████████░░
 
 I'm especially interested in applying AI to real-world engineering and support problems, rather than treating AI as purely theoretical.
+
 
 🚀 What I'm Building
 
@@ -48,6 +52,8 @@ Automation and scripting
 Troubleshooting documentation
 AI learning exercises
 Portfolio projects demonstrating practical problem solving
+
+
 🎯 Roles I'm Targeting
 
 I'm interested in opportunities such as:
@@ -61,6 +67,7 @@ Systems / Infrastructure Engineer
 AI-focused Customer or Technical Operations roles
 
 I'm especially interested in organizations using AI to improve how technical teams support customers, troubleshoot systems, automate repetitive work, and solve complex operational problems.
+
 
 📚 Currently Learning
 
